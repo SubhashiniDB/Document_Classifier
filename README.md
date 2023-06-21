@@ -1,6 +1,6 @@
 # Document_Classifier
 
-We build different classification models to classify documents to different classes.In this case into five different categories:
+Different classification models to classify documents to different classes.In this case into five different categories:
 TAX, AGREEMENTS, VALUATION, HUMAN RESOURCES, DEEDS
 
 MODELING AND ANALYSIS:
