@@ -4,6 +4,7 @@ Different classification models to classify documents to different classes.In th
 TAX, AGREEMENTS, VALUATION, HUMAN RESOURCES, DEEDS
 
 MODELING AND ANALYSIS:
+
     ➔ Function to extract the textual data from PDFs
     
     ➔ Extraction of Taxes files and labeling & on all categories
