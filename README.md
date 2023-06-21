@@ -21,4 +21,3 @@ MODELING AND ANALYSIS:
             
             ● XGBoost Classifier
             
-            ● Logistic regression
